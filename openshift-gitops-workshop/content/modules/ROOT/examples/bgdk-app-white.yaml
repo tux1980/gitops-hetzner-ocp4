@@ -9,7 +9,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: openshift-gitops-workshop/content/modules/ROOT/examples/overlays/yellow
+    path: openshift-gitops-workshop/content/modules/ROOT/examples/overlays/white
     repoURL: https://github.com/tux1980/gitops-hetzner-ocp4
     targetRevision: main
   syncPolicy:
